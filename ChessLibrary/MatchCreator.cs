@@ -2,7 +2,7 @@
 
 namespace ChessLibrary
 {
-    public class MainClass
+    public class MatchCreator
     {
     }
 }
