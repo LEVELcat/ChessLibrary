@@ -1,10 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
+
 
 namespace ChessLibrary.MatchComponents
 {
-    class ChessPiece
+    abstract class ChessPiece
     {
     }
 }

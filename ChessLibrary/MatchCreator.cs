@@ -4,5 +4,6 @@ namespace ChessLibrary
 {
     public class MatchCreator
     {
+
     }
 }

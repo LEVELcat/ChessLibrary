@@ -1,11 +1,24 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
+using System.Numerics;
 
 namespace ChessLibrary.MatchComponents
 {
     class Board
     {
+        ChessPiece[,] chessPieces;
 
+
+
+        public ChessPiece this[int x, int y]
+        {
+            get
+            {
+                return chessPieces[x, y];
+            }
+            set
+            {
+
+            }
+        }
     }
 }
