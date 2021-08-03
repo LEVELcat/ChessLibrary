@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ChessLibrary
 {
-    class Board
+    class Match
     {
 
     }

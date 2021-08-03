@@ -2,10 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ChessLibrary
+namespace ChessLibrary.MatchComponents
 {
-    class ChessGame
+    class MatchLoger
     {
-
     }
 }
